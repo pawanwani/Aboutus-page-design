@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+.uk-button-text{
+    color: #f3f1f1;
+}
+.image{
+    height: 10%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    font-family: 'Alfa Slab One', cursive;
+}
